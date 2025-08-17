@@ -1,0 +1,18 @@
+{
+  "name": "rblx-ai-assistant-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "license": "UNLICENSED",
+  "author": "TotoCodeFR",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@google/genai": "^1.14.0",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0"
+  }
+}
